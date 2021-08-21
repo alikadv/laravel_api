@@ -1,6 +1,6 @@
 <?php
 use App\Http\Controllers\ArticlesController;
-use App\Http\Controllers\tagsController;
+use App\Http\Controllers\TagsController;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 
